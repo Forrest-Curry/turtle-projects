@@ -82,3 +82,5 @@ for i in range(2):
     pen.forward(180)
     pen.left(90)
 pen.end_fill()
+
+pen.done()
